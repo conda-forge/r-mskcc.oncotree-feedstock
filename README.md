@@ -1,11 +1,11 @@
-About r-mskcc.oncotree
-======================
+About r-mskcc.oncotree-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mskcc.oncotree-feedstock/blob/main/LICENSE.txt)
 
 Home: https://maialab.org/mskcc.oncotree/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mskcc.oncotree-feedstock/blob/main/LICENSE.txt)
 
 Summary: Programmatic access to 'OncoTree' API <http://oncotree.mskcc.org/>. Get access to tumor main types, identifiers and utility routines to map across to other tumor classification systems.
 
